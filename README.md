@@ -1,4 +1,9 @@
 ### Hi friend 👋
+My name is Bam! For over 10 years, I've been working as an iOS developer using Swift & Objective-C. I've worked with all kinds of businesses from start-ups to Fortune 500 companies (see my [resume](https://bigbam.github.io/bam.guide/resume/)).
+<br>
+<br>
+In this space, I plan on contributing to all kinds of projects, although recently I've been mainly focusing on learning new technologies and expanding my skillset.
+<br>
 - 😄 Pronouns: He/Him
   <br><br>
 - 💬 Ask me about **hiihat.com** ! Hiihat is a social space that empowers the Black community.
