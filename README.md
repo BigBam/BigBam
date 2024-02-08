@@ -15,7 +15,7 @@
   - Added a chatbot endpoint to the API using **OpenAI**'s library. It's called **PepperChat™**, you can try it out now! 
   <br><br>
 - 🤔 I’m looking for help with:
-  - **Flask** - I would like to learn more about creating REST APIs using Flask.
+  - **Flask** - I would like to learn more about creating REST APIs in Python using the Flask framework.
   - **Capacitor / Ionic** - I'm really curious about building cross-platform mobile apps. I will be adding some repos experimenting with these projects. Can we easily create native apps for iOS and Android by creating Next.js apps and using these cross-platform native runtimes? How is the performance and what are the drawbacks? We will find out !
   <br><br>
 - 🔭 I’m currently working on:
