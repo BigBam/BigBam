@@ -1,4 +1,4 @@
-### Hi friend 👋
+### hello world 👋
 My name is Bam! For over 10 years, I've been working as an iOS developer using Swift & Objective-C. I've worked with all kinds of businesses from start-ups to Fortune 500 companies (see my [resume](https://bigbam.github.io/bam.guide/resume/)).
 <br>
 <br>
