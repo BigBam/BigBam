@@ -9,6 +9,7 @@ In this space, I plan on contributing to all kinds of projects, although recentl
 - 💬 Ask me about **hiihat.com**! Hiihat is a social space that empowers the Black community.
   <br>
   If you would like to support, visit https://search.hiihat.com to find products, services, news, media and more.
+  <br><br>
   Here are some things that I've worked on over the years:
   - We have an automated web crawling system using our **Node.js** application, and created a schedule for the crawls using **CloudFormation** to build the stacks.
   - Refactored the frontend by using **Amplify (Next.js)**. I learned so much about **React** by working with this project!
