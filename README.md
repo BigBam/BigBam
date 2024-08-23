@@ -6,12 +6,9 @@ In this space, I plan on contributing to all kinds of projects, although recentl
 <br>
 - 😄 Pronouns: He/Him
   <br><br>
-- 💬 Ask me about **hiihat.com** ! Hiihat is a social space that empowers the Black community.
+- 💬 Ask me about **hiihat.com**! Hiihat is a social space that empowers the Black community.
   <br>
   If you would like to support, visit https://search.hiihat.com to find products, services, news, media and more.
-  <br><br>
-  Hiihat is still under construction but we've been developing some cool things since 2020.
-  <br>
   Here are some things that I've worked on over the years:
   - We have an automated web crawling system using our **Node.js** application, and created a schedule for the crawls using **CloudFormation** to build the stacks.
   - Refactored the frontend by using **Amplify (Next.js)**. I learned so much about **React** by working with this project!
@@ -21,12 +18,10 @@ In this space, I plan on contributing to all kinds of projects, although recentl
   <br><br>
 - 🤔 I’m looking for help with:
   - **Flask** - I would like to learn more about creating REST APIs in Python using the Flask framework.
-  - **Capacitor / Ionic** - I'm really curious about building cross-platform mobile apps. I will be adding some repos experimenting with these projects. Can we easily create native apps for iOS and Android by creating Next.js apps and using these cross-platform native runtimes? How is the performance and what are the drawbacks? We will find out !
   <br><br>
 - 🔭 I’m currently working on:
   - Hiihat.com, a search engine for black-owned products, services, news & media.
-  - Creating a cross-platform app using a Next.js app as the common codebase (using Capacitor by Ionic).
-  - _I have a few other secret projects that will be revealed eventually._
+  - A few React Native projects that are still in the works.
   <br><br>
 - 🌱 I’m currently learning:
   - **Python** - There are so many things to learn, especially data analysis. I'll be adding some repos just to play with a few things.
